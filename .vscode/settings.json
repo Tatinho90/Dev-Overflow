@@ -35,6 +35,7 @@
         "next-env.d.ts": true,
         "tsconfig.json": true,
         "README.md": true,
+        "**/app/favicon.ico": true,
     }
     }
 }
