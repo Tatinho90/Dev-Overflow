@@ -36,6 +36,7 @@
         "tsconfig.json": true,
         "README.md": true,
         "**/app/favicon.ico": true,
+        "**/app/fonts": true,
     }
     }
 }
